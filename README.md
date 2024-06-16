@@ -1,5 +1,4 @@
 # Tata Sky m3u generator web app
-This project is totally based on CodeCrafters API.
 
 A react web app to generate an m3u playlist for the channels Available on Tata Sky.
 
@@ -21,8 +20,4 @@ b) npm run dev
 3) Enjoy!
 
 ## Note : **use this playlist on OTT Navigator and set to reload data to 2 to 4 hours, Bcz key expires in 4 to 24 hours for most of channels.           
-
-This script is only for educational purpose and not for sale. 
-
-##Special thanks to CodeCrafters for their API.##
 
